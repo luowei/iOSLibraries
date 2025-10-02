@@ -1,0 +1,102 @@
+[submodule "LWAspectsHook"]
+	path = LWAspectsHook
+	url = git@github.com:luowei/LWAspectsHook.git
+[submodule "LWAudioPlayer"]
+	path = LWAudioPlayer
+	url = git@github.com:luowei/LWAudioPlayer.git
+[submodule "LWColorPicker"]
+	path = LWColorPicker
+	url = git@github.com:luowei/LWColorPicker.git
+[submodule "LWContactManager"]
+	path = LWContactManager
+	url = git@github.com:luowei/LWContactManager.git
+[submodule "LWDrawboard"]
+	path = LWDrawboard
+	url = git@github.com:luowei/LWDrawboard.git
+[submodule "LWDynamicFont"]
+	path = LWDynamicFont
+	url = git@github.com:luowei/LWDynamicFont.git
+[submodule "LWEncryptor"]
+	path = LWEncryptor
+	url = git@github.com:luowei/LWEncryptor.git
+[submodule "LWFileDownload"]
+	path = LWFileDownload
+	url = git@github.com:luowei/LWFileDownload.git
+[submodule "LWHeroOC"]
+	path = LWHeroOC
+	url = git@github.com:luowei/LWHeroOC.git
+[submodule "LWHUD"]
+	path = LWHUD
+	url = git@github.com:luowei/LWHUD.git
+[submodule "LWKBaseExtensions"]
+	path = LWKBaseExtensions
+	url = git@github.com:luowei/LWKBaseExtensions.git
+[submodule "LWKBCommonLib"]
+	path = LWKBCommonLib
+	url = git@github.com:luowei/LWKBCommonLib.git
+[submodule "LWKBExtensions"]
+	path = LWKBExtensions
+	url = git@github.com:luowei/LWKBExtensions.git
+[submodule "LWLogger"]
+	path = LWLogger
+	url = git@github.com:luowei/LWLogger.git
+[submodule "LWPhotoPicker"]
+	path = LWPhotoPicker
+	url = git@github.com:luowei/LWPhotoPicker.git
+[submodule "LWPrettyText"]
+	path = LWPrettyText
+	url = git@github.com:luowei/LWPrettyText.git
+[submodule "LWProgressView"]
+	path = LWProgressView
+	url = git@github.com:luowei/LWProgressView.git
+[submodule "LWPurchase"]
+	path = LWPurchase
+	url = git@github.com:luowei/LWPurchase.git
+[submodule "LWReachabilityManager"]
+	path = LWReachabilityManager
+	url = git@github.com:luowei/LWReachabilityManager.git
+[submodule "LWSnapshot"]
+	path = LWSnapshot
+	url = git@github.com:luowei/LWSnapshot.git
+[submodule "LWSQLCipherDB"]
+	path = LWSQLCipherDB
+	url = git@github.com:luowei/LWSQLCipherDB.git
+[submodule "LWThemeManager"]
+	path = LWThemeManager
+	url = git@github.com:luowei/LWThemeManager.git
+[submodule "LWWebContainer"]
+	path = LWWebContainer
+	url = git@github.com:luowei/LWWebContainer.git
+[submodule "LWWebLoader"]
+	path = LWWebLoader
+	url = git@github.com:luowei/LWWebLoader.git
+[submodule "LWWebSocket"]
+	path = LWWebSocket
+	url = git@github.com:luowei/LWWebSocket.git
+[submodule "LWWebUI"]
+	path = LWWebUI
+	url = git@github.com:luowei/LWWebUI.git
+[submodule "LWWordConverter"]
+	path = LWWordConverter
+	url = git@github.com:luowei/LWWordConverter.git
+[submodule "LWWubiEngine"]
+	path = LWWubiEngine
+	url = git@gitlab.com:ioslibraries1/lwwubiengine.git
+[submodule "LWKBCore"]
+	path = LWKBCore
+	url = git@gitlab.com:ioslibraries1/lwkbcore.git
+[submodule "LWPusher"]
+	path = LWPusher
+	url = git@gitlab.com:ioslibraries1/liblwpusher.git
+[submodule "LWSDWebImage"]
+	path = LWSDWebImage
+	url = git@gitlab.com:ioslibraries1/lwsdwebimage.git
+[submodule "LWZipArchive"]
+	path = LWZipArchive
+	url = git@gitlab.com:ioslibraries1/lwziparchive.git
+[submodule "LWKBCommonUtils"]
+	path = LWKBCommonUtils
+	url = git@gitlab.com:ioslibraries1/lwkbcommonutils.git
+[submodule "LWWordEngine"]
+	path = LWWordEngine
+	url = git@gitlab.com:ioslibraries1/WordEngine.git
