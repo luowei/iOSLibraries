@@ -40,7 +40,14 @@
       "Bash(bash:*)",
       "Bash(git submodule:*)",
       "Bash(do if git submodule status)",
-      "Bash(then echo \"✗ $dir 被错误添加为submodule\" else echo \"✓ $dir 正确被忽略\" fi done)"
+      "Bash(then echo \"✗ $dir 被错误添加为submodule\" else echo \"✓ $dir 正确被忽略\" fi done)",
+      "Bash(mkdir:*)",
+      "Bash(tree:*)",
+      "Bash(wc:*)",
+      "Bash(for:*)",
+      "Bash(head:*)",
+      "Bash(while read f)",
+      "Bash(do echo \"=== $file ===\")"
     ],
     "deny": [],
     "ask": []
