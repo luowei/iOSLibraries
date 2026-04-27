@@ -81,22 +81,25 @@
 	url = git@github.com:luowei/LWWordConverter.git
 [submodule "LWWubiEngine"]
 	path = LWWubiEngine
-	url = git@gitlab.com:ioslibraries1/lwwubiengine.git
+	url = git@github.com:luowei/LWWubiEngine.git
 [submodule "LWKBCore"]
 	path = LWKBCore
-	url = git@gitlab.com:ioslibraries1/lwkbcore.git
+	url = git@github.com:luowei/LWKBCore.git
 [submodule "LWPusher"]
 	path = LWPusher
-	url = git@gitlab.com:ioslibraries1/liblwpusher.git
+	url = git@github.com:luowei/LWPusher.git
 [submodule "LWSDWebImage"]
 	path = LWSDWebImage
-	url = git@gitlab.com:ioslibraries1/lwsdwebimage.git
+	url = git@github.com:luowei/LWSDWebImage.git
 [submodule "LWZipArchive"]
 	path = LWZipArchive
-	url = git@gitlab.com:ioslibraries1/lwziparchive.git
+	url = git@github.com:luowei/LWZipArchive.git
 [submodule "LWKBCommonUtils"]
 	path = LWKBCommonUtils
-	url = git@gitlab.com:ioslibraries1/lwkbcommonutils.git
+	url = git@github.com:luowei/LWKBCommonUtils.git
 [submodule "LWWordEngine"]
 	path = LWWordEngine
-	url = git@gitlab.com:ioslibraries1/WordEngine.git
+	url = git@github.com:luowei/LWWordEngine.git
+[submodule "LWPinyinCore"]
+	path = LWPinyinCore
+	url = git@github.com:luowei/LWPinyinCore.git
