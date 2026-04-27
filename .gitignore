@@ -33,5 +33,7 @@ mybinlibs/
 mygiteerepo/
 mygitlabrepo/
 
-# 其他
+# Local agent and Claude permission state.
+.claude/settings.local.json
 
+# 其他
