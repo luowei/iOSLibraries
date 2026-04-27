@@ -1,0 +1,335 @@
+# text	code	frequency
+你	ni	90000
+你好	ni hao	100000
+呢	ne	30000
+好	hao	85000
+中国	zhong guo	98000
+中文	zhong wen	76000
+中	zhong	70000
+国	guo	65000
+输入法	shu ru fa	90000
+输入	shu ru	70000
+手机	shou ji	70000
+苹果	ping guo	65000
+今天	jin tian	70000
+明天	ming tian	60000
+我	wo	95000
+我们	wo men	90000
+想	xiang	60000
+一段	yi duan	40000
+话	hua	50000
+候选	hou xuan	40000
+键盘	jian pan	52000
+拼音	pin yin	72000
+测试	ce shi	50000
+项目	xiang mu	42000
+代码	dai ma	52000
+功能	gong neng	56000
+问题	wen ti	60000
+解决	jie jue	52000
+编译	bian yi	54000
+运行	yun xing	54000
+模拟器	mo ni qi	52000
+真机	zhen ji	50000
+我的	wo de	65000
+是	shi	90000
+的	de	110000
+不	bu	88000
+了	le	87000
+在	zai	85000
+有	you	82000
+和	he	76000
+就	jiu	73000
+都	dou	70000
+也	ye	69000
+很	hen	67000
+到	dao	66000
+说	shuo	65000
+要	yao	64000
+人	ren	62000
+可以	ke yi	62000
+这个	zhe ge	63000
+一个	yi ge	64000
+现在	xian zai	65000
+工作	gong zuo	57000
+开发	kai fa	56000
+重新	chong xin	40000
+实现	shi xian	45000
+核心	he xin	43000
+候选词	hou xuan ci	42000
+质量	zhi liang	40000
+学习	xue xi	48000
+用户	yong hu	50000
+词库	ci ku	46000
+持久化	chi jiu hua	35000
+模糊音	mo hu yin	36000
+排序	pai xu	36000
+我想	wo xiang	62000
+我想输入	wo xiang shu ru	56000
+一段话	yi duan hua	52000
+我想输入一段话	wo xiang shu ru yi duan hua	50000
+我是	wo shi	78000
+中国人	zhong guo ren	72000
+我是中国人	wo shi zhong guo ren	70000
+继续	ji xu	52000
+增强	zeng qiang	50000
+新核心	xin he xin	46000
+拼音输入	pin yin shu ru	50000
+拼音输入法	pin yin shu ru fa	56000
+谢谢	xie xie	98000
+好的	hao de	96000
+知道	zhi dao	90000
+知道了	zhi dao le	88000
+没事	mei shi	82000
+没问题	mei wen ti	90000
+不用	bu yong	76000
+不用了	bu yong le	72000
+为什么	wei shen me	92000
+怎么	zen me	90000
+怎么办	zen me ban	85000
+什么时候	shen me shi hou	84000
+什么	shen me	93000
+哪里	na li	78000
+哪个	na ge	76000
+多少	duo shao	79000
+可能	ke neng	82000
+应该	ying gai	84000
+需要	xu yao	85000
+因为	yin wei	83000
+所以	suo yi	82000
+但是	dan shi	81000
+如果	ru guo	80000
+然后	ran hou	83000
+还是	hai shi	78000
+或者	huo zhe	76000
+已经	yi jing	82000
+没有	mei you	88000
+不是	bu shi	86000
+就是	jiu shi	84000
+都是	dou shi	76000
+也是	ye shi	74000
+还有	hai you	78000
+一起	yi qi	75000
+一下	yi xia	82000
+一下子	yi xia zi	62000
+这里	zhe li	76000
+那里	na li	72000
+这样	zhe yang	82000
+那样	na yang	68000
+这些	zhe xie	78000
+那些	na xie	70000
+这种	zhe zhong	74000
+那种	na zhong	68000
+自己	zi ji	84000
+大家	da jia	82000
+别人	bie ren	72000
+朋友	peng you	76000
+时间	shi jian	82000
+明白	ming bai	78000
+确定	que ding	80000
+确认	que ren	76000
+直接	zhi jie	80000
+马上	ma shang	76000
+稍等	shao deng	72000
+等一下	deng yi xia	70000
+刚才	gang cai	70000
+以后	yi hou	78000
+之前	zhi qian	76000
+之后	zhi hou	76000
+目前	mu qian	76000
+当前	dang qian	76000
+最近	zui jin	74000
+以后再说	yi hou zai shuo	56000
+看一下	kan yi xia	80000
+试一下	shi yi xia	76000
+再试一下	zai shi yi xia	70000
+发一下	fa yi xia	70000
+给我	gei wo	78000
+帮我	bang wo	76000
+麻烦	ma fan	72000
+麻烦你	ma fan ni	70000
+辛苦了	xin ku le	78000
+没关系	mei guan xi	76000
+不好意思	bu hao yi si	82000
+请问	qing wen	76000
+请帮我	qing bang wo	70000
+可以吗	ke yi ma	78000
+对不起	dui bu qi	76000
+没找到	mei zhao dao	68000
+找不到	zhao bu dao	76000
+无法	wu fa	76000
+失败	shi bai	76000
+成功	cheng gong	82000
+完成	wan cheng	82000
+继续执行	ji xu zhi xing	64000
+开始	kai shi	78000
+结束	jie shu	76000
+保存	bao cun	74000
+删除	shan chu	74000
+修改	xiu gai	76000
+更新	geng xin	78000
+升级	sheng ji	72000
+优化	you hua	76000
+调整	tiao zheng	74000
+修正	xiu zheng	76000
+修复	xiu fu	80000
+重构	chong gou	72000
+接入	jie ru	70000
+集成	ji cheng	72000
+配置	pei zhi	78000
+依赖	yi lai	76000
+本地	ben di	74000
+远程	yuan cheng	70000
+仓库	cang ku	70000
+分支	fen zhi	70000
+提交	ti jiao	76000
+合并	he bing	72000
+回滚	hui gun	66000
+冲突	chong tu	66000
+日志	ri zhi	76000
+报错	bao cuo	78000
+错误	cuo wu	80000
+警告	jing gao	72000
+崩溃	beng kui	76000
+卡顿	ka dun	70000
+闪退	shan tui	74000
+调试	tiao shi	78000
+断点	duan dian	64000
+日志输出	ri zhi shu chu	62000
+控制台	kong zhi tai	68000
+命令行	ming ling hang	70000
+终端	zhong duan	70000
+脚本	jiao ben	70000
+工具	gong ju	74000
+工程	gong cheng	74000
+项目结构	xiang mu jie gou	64000
+目录	mu lu	68000
+文件	wen jian	78000
+路径	lu jing	72000
+资源	zi yuan	70000
+图片	tu pian	72000
+数据库	shu ju ku	74000
+缓存	huan cun	70000
+网络	wang luo	76000
+请求	qing qiu	74000
+响应	xiang ying	70000
+接口	jie kou	76000
+协议	xie yi	70000
+数据	shu ju	80000
+结构	jie gou	72000
+算法	suan fa	72000
+性能	xing neng	76000
+内存	nei cun	72000
+线程	xian cheng	70000
+异步	yi bu	68000
+同步	tong bu	68000
+回调	hui diao	68000
+状态	zhuang tai	76000
+初始化	chu shi hua	72000
+加载	jia zai	74000
+刷新	shua xin	72000
+渲染	xuan ran	68000
+布局	bu ju	70000
+页面	ye mian	74000
+视图	shi tu	70000
+按钮	an niu	70000
+输入框	shu ru kuang	70000
+键盘布局	jian pan bu ju	66000
+候选栏	hou xuan lan	68000
+侧边栏	ce bian lan	62000
+上屏	shang ping	70000
+组词	zu ci	66000
+造词	zao ci	64000
+用户词	yong hu ci	68000
+用户词库	yong hu ci ku	70000
+系统词库	xi tong ci ku	68000
+基础词库	ji chu ci ku	66000
+高频词	gao pin ci	68000
+常用短语	chang yong duan yu	68000
+拼音切分	pin yin qie fen	70000
+全拼	quan pin	70000
+简拼	jian pin	70000
+九宫格	jiu gong ge	70000
+双拼	shuang pin	64000
+模糊拼音	mo hu pin yin	66000
+候选排序	hou xuan pai xu	70000
+候选质量	hou xuan zhi liang	70000
+输入体验	shu ru ti yan	70000
+学习权重	xue xi quan zhong	64000
+持久化存储	chi jiu hua cun chu	66000
+增量学习	zeng liang xue xi	64000
+词频	ci pin	70000
+词条	ci tiao	70000
+音节	yin jie	70000
+编码	bian ma	70000
+解码	jie ma	68000
+前缀	qian zhui	66000
+匹配	pi pei	74000
+精确匹配	jing que pi pei	66000
+模糊匹配	mo hu pi pei	66000
+长句	chang ju	68000
+短句	duan ju	66000
+连续输入	lian xu shu ru	70000
+删除键	shan chu jian	66000
+空格键	kong ge jian	66000
+回车键	hui che jian	64000
+标点	biao dian	70000
+符号	fu hao	70000
+中文输入	zhong wen shu ru	76000
+英文输入	ying wen shu ru	70000
+iOS	ios	76000
+应用	ying yong	76000
+扩展	kuo zhan	72000
+输入法扩展	shu ru fa kuo zhan	72000
+主应用	zhu ying yong	70000
+模拟器运行	mo ni qi yun xing	66000
+真机运行	zhen ji yun xing	66000
+真机调试	zhen ji tiao shi	68000
+证书	zheng shu	70000
+签名	qian ming	72000
+描述文件	miao shu wen jian	66000
+构建	gou jian	76000
+构建失败	gou jian shi bai	70000
+构建成功	gou jian cheng gong	70000
+编译失败	bian yi shi bai	70000
+编译成功	bian yi cheng gong	70000
+安装	an zhuang	74000
+启动	qi dong	74000
+安装失败	an zhuang shi bai	68000
+启动失败	qi dong shi bai	68000
+版本号	ban ben hao	72000
+打包	da bao	72000
+发布	fa bu	74000
+上架	shang jia	68000
+测试用例	ce shi yong li	70000
+单元测试	dan yuan ce shi	72000
+回归测试	hui gui ce shi	70000
+自动化	zi dong hua	72000
+自动化测试	zi dong hua ce shi	70000
+文档	wen dang	74000
+方案	fang an	74000
+计划	ji hua	72000
+需求	xu qiu	76000
+任务	ren wu	74000
+风险	feng xian	70000
+问题定位	wen ti ding wei	68000
+根因	gen yin	66000
+临时方案	lin shi fang an	62000
+长期方案	chang qi fang an	62000
+实现方案	shi xian fang an	70000
+技术方案	ji shu fang an	70000
+输入法核心	shu ru fa he xin	74000
+拼音核心	pin yin he xin	74000
+核心库	he xin ku	70000
+独立库	du li ku	66000
+本地库	ben di ku	66000
+静态库	jing tai ku	66000
+动态库	dong tai ku	64000
+头文件	tou wen jian	66000
+源文件	yuan wen jian	66000
+桥接	qiao jie	64000
+接口层	jie kou ceng	66000
+封装	feng zhuang	70000
+调用	diao yong	72000
+参数	can shu	70000
+返回值	fan hui zhi	68000
