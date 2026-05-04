@@ -1,0 +1,2438 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "test_core.cpp",
+      "file_type": "code",
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L1",
+      "id": "tests_test_core_cpp",
+      "community": 6,
+      "norm_label": "test_core.cpp"
+    },
+    {
+      "label": "candidates()",
+      "file_type": "code",
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L10",
+      "id": "tests_test_core_candidates",
+      "community": 6,
+      "norm_label": "candidates()"
+    },
+    {
+      "label": "contains()",
+      "file_type": "code",
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L20",
+      "id": "tests_test_core_contains",
+      "community": 6,
+      "norm_label": "contains()"
+    },
+    {
+      "label": "index_of()",
+      "file_type": "code",
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L29",
+      "id": "tests_test_core_index_of",
+      "community": 6,
+      "norm_label": "index_of()"
+    },
+    {
+      "label": "first_candidate()",
+      "file_type": "code",
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L40",
+      "id": "tests_test_core_first_candidate",
+      "community": 6,
+      "norm_label": "first_candidate()"
+    },
+    {
+      "label": "file_has_four_columns()",
+      "file_type": "code",
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L45",
+      "id": "tests_test_core_file_has_four_columns",
+      "community": 6,
+      "norm_label": "file_has_four_columns()"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L62",
+      "id": "tests_test_core_main",
+      "community": 5,
+      "norm_label": "main()"
+    },
+    {
+      "label": "validate_lexicon.py",
+      "file_type": "code",
+      "source_file": "Scripts/validate_lexicon.py",
+      "source_location": "L1",
+      "id": "scripts_validate_lexicon_py",
+      "community": 9,
+      "norm_label": "validate_lexicon.py"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "Scripts/validate_lexicon.py",
+      "source_location": "L11",
+      "id": "scripts_validate_lexicon_main",
+      "community": 9,
+      "norm_label": "main()"
+    },
+    {
+      "label": "Engine.hpp",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.hpp",
+      "source_location": "L1",
+      "id": "sources_core_engine_hpp",
+      "community": 3,
+      "norm_label": "engine.hpp"
+    },
+    {
+      "label": "Engine()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L338",
+      "id": "core_engine_engine",
+      "community": 3,
+      "norm_label": "engine()"
+    },
+    {
+      "label": "lwpy_core.cpp",
+      "file_type": "code",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L1",
+      "id": "sources_core_lwpy_core_cpp",
+      "community": 2,
+      "norm_label": "lwpy_core.cpp"
+    },
+    {
+      "label": "lwpy_engine()",
+      "file_type": "code",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L10",
+      "id": "core_lwpy_core_lwpy_engine",
+      "community": 2,
+      "norm_label": "lwpy_engine()"
+    },
+    {
+      "label": "lwpy_engine_create()",
+      "file_type": "code",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L18",
+      "id": "core_lwpy_core_lwpy_engine_create",
+      "community": 5,
+      "norm_label": "lwpy_engine_create()"
+    },
+    {
+      "label": "lwpy_engine_destroy()",
+      "file_type": "code",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L22",
+      "id": "core_lwpy_core_lwpy_engine_destroy",
+      "community": 5,
+      "norm_label": "lwpy_engine_destroy()"
+    },
+    {
+      "label": "lwpy_engine_reset()",
+      "file_type": "code",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L26",
+      "id": "core_lwpy_core_lwpy_engine_reset",
+      "community": 2,
+      "norm_label": "lwpy_engine_reset()"
+    },
+    {
+      "label": "lwpy_engine_set_input()",
+      "file_type": "code",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L32",
+      "id": "core_lwpy_core_lwpy_engine_set_input",
+      "community": 2,
+      "norm_label": "lwpy_engine_set_input()"
+    },
+    {
+      "label": "lwpy_engine_backspace()",
+      "file_type": "code",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L36",
+      "id": "core_lwpy_core_lwpy_engine_backspace",
+      "community": 2,
+      "norm_label": "lwpy_engine_backspace()"
+    },
+    {
+      "label": "lwpy_engine_search_full()",
+      "file_type": "code",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L40",
+      "id": "core_lwpy_core_lwpy_engine_search_full",
+      "community": 5,
+      "norm_label": "lwpy_engine_search_full()"
+    },
+    {
+      "label": "lwpy_engine_search_nine()",
+      "file_type": "code",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L44",
+      "id": "core_lwpy_core_lwpy_engine_search_nine",
+      "community": 5,
+      "norm_label": "lwpy_engine_search_nine()"
+    },
+    {
+      "label": "lwpy_engine_composition()",
+      "file_type": "code",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L48",
+      "id": "core_lwpy_core_lwpy_engine_composition",
+      "community": 2,
+      "norm_label": "lwpy_engine_composition()"
+    },
+    {
+      "label": "lwpy_engine_candidate_count()",
+      "file_type": "code",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L52",
+      "id": "core_lwpy_core_lwpy_engine_candidate_count",
+      "community": 2,
+      "norm_label": "lwpy_engine_candidate_count()"
+    },
+    {
+      "label": "lwpy_engine_get_candidates()",
+      "file_type": "code",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L56",
+      "id": "core_lwpy_core_lwpy_engine_get_candidates",
+      "community": 6,
+      "norm_label": "lwpy_engine_get_candidates()"
+    },
+    {
+      "label": "lwpy_engine_choose()",
+      "file_type": "code",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L70",
+      "id": "core_lwpy_core_lwpy_engine_choose",
+      "community": 5,
+      "norm_label": "lwpy_engine_choose()"
+    },
+    {
+      "label": "lwpy_engine_commit_text()",
+      "file_type": "code",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L74",
+      "id": "core_lwpy_core_lwpy_engine_commit_text",
+      "community": 2,
+      "norm_label": "lwpy_engine_commit_text()"
+    },
+    {
+      "label": "lwpy_engine_get_sidebar()",
+      "file_type": "code",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L78",
+      "id": "core_lwpy_core_lwpy_engine_get_sidebar",
+      "community": 5,
+      "norm_label": "lwpy_engine_get_sidebar()"
+    },
+    {
+      "label": "lwpy_engine_select_sidebar()",
+      "file_type": "code",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L89",
+      "id": "core_lwpy_core_lwpy_engine_select_sidebar",
+      "community": 2,
+      "norm_label": "lwpy_engine_select_sidebar()"
+    },
+    {
+      "label": "Engine.cpp",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L1",
+      "id": "sources_core_engine_cpp",
+      "community": 4,
+      "norm_label": "engine.cpp"
+    },
+    {
+      "label": "StartsWith()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L14",
+      "id": "core_engine_startswith",
+      "community": 0,
+      "norm_label": "startswith()"
+    },
+    {
+      "label": "FuzzyNormalize()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L18",
+      "id": "core_engine_fuzzynormalize",
+      "community": 0,
+      "norm_label": "fuzzynormalize()"
+    },
+    {
+      "label": "FuzzyStartsWith()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L47",
+      "id": "core_engine_fuzzystartswith",
+      "community": 0,
+      "norm_label": "fuzzystartswith()"
+    },
+    {
+      "label": "IsValidPinyinPrefix()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L87",
+      "id": "core_engine_isvalidpinyinprefix",
+      "community": 0,
+      "norm_label": "isvalidpinyinprefix()"
+    },
+    {
+      "label": "SplitCompactPinyinSyllables()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L99",
+      "id": "core_engine_splitcompactpinyinsyllables",
+      "community": 7,
+      "norm_label": "splitcompactpinyinsyllables()"
+    },
+    {
+      "label": "EntryMatchesInputPiece()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L129",
+      "id": "core_engine_entrymatchesinputpiece",
+      "community": 0,
+      "norm_label": "entrymatchesinputpiece()"
+    },
+    {
+      "label": "UpsertCandidate()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L149",
+      "id": "core_engine_upsertcandidate",
+      "community": 0,
+      "norm_label": "upsertcandidate()"
+    },
+    {
+      "label": "SplitTabs()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L163",
+      "id": "core_engine_splittabs",
+      "community": 3,
+      "norm_label": "splittabs()"
+    },
+    {
+      "label": "ParseInt()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L173",
+      "id": "core_engine_parseint",
+      "community": 3,
+      "norm_label": "parseint()"
+    },
+    {
+      "label": "ParseUInt64()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L187",
+      "id": "core_engine_parseuint64",
+      "community": 3,
+      "norm_label": "parseuint64()"
+    },
+    {
+      "label": "SplitCodeSyllables()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L201",
+      "id": "core_engine_splitcodesyllables",
+      "community": 7,
+      "norm_label": "splitcodesyllables()"
+    },
+    {
+      "label": "CandidateKey()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L233",
+      "id": "core_engine_candidatekey",
+      "community": 0,
+      "norm_label": "candidatekey()"
+    },
+    {
+      "label": "DigitForLetter()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L241",
+      "id": "core_engine_digitforletter",
+      "community": 7,
+      "norm_label": "digitforletter()"
+    },
+    {
+      "label": "NormalizeLetters()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L284",
+      "id": "core_engine_normalizeletters",
+      "community": 8,
+      "norm_label": "normalizeletters()"
+    },
+    {
+      "label": "NormalizeDigits()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L294",
+      "id": "core_engine_normalizedigits",
+      "community": 8,
+      "norm_label": "normalizedigits()"
+    },
+    {
+      "label": "CompactCode()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L304",
+      "id": "core_engine_compactcode",
+      "community": 7,
+      "norm_label": "compactcode()"
+    },
+    {
+      "label": "Initials()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L308",
+      "id": "core_engine_initials",
+      "community": 8,
+      "norm_label": "initials()"
+    },
+    {
+      "label": "DigitsForCode()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L327",
+      "id": "core_engine_digitsforcode",
+      "community": 7,
+      "norm_label": "digitsforcode()"
+    },
+    {
+      "label": "Reset()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L348",
+      "id": "core_engine_reset",
+      "community": 3,
+      "norm_label": "reset()"
+    },
+    {
+      "label": "SetInput()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L358",
+      "id": "core_engine_setinput",
+      "community": 8,
+      "norm_label": "setinput()"
+    },
+    {
+      "label": "Backspace()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L364",
+      "id": "core_engine_backspace",
+      "community": 0,
+      "norm_label": "backspace()"
+    },
+    {
+      "label": "SearchFull()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L380",
+      "id": "core_engine_searchfull",
+      "community": 4,
+      "norm_label": "searchfull()"
+    },
+    {
+      "label": "SearchNine()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L389",
+      "id": "core_engine_searchnine",
+      "community": 0,
+      "norm_label": "searchnine()"
+    },
+    {
+      "label": "CandidateCount()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L403",
+      "id": "core_engine_candidatecount",
+      "community": 4,
+      "norm_label": "candidatecount()"
+    },
+    {
+      "label": "Candidates()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L407",
+      "id": "core_engine_candidates",
+      "community": 4,
+      "norm_label": "candidates()"
+    },
+    {
+      "label": "Choose()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L419",
+      "id": "core_engine_choose",
+      "community": 4,
+      "norm_label": "choose()"
+    },
+    {
+      "label": "Sidebar()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L436",
+      "id": "core_engine_sidebar",
+      "community": 4,
+      "norm_label": "sidebar()"
+    },
+    {
+      "label": "SelectSidebar()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L448",
+      "id": "core_engine_selectsidebar",
+      "community": 4,
+      "norm_label": "selectsidebar()"
+    },
+    {
+      "label": "LoadLexicon()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L459",
+      "id": "core_engine_loadlexicon",
+      "community": 3,
+      "norm_label": "loadlexicon()"
+    },
+    {
+      "label": "LoadBuiltinLexicon()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L487",
+      "id": "core_engine_loadbuiltinlexicon",
+      "community": 3,
+      "norm_label": "loadbuiltinlexicon()"
+    },
+    {
+      "label": "LoadLearned()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L515",
+      "id": "core_engine_loadlearned",
+      "community": 3,
+      "norm_label": "loadlearned()"
+    },
+    {
+      "label": "SaveLearned()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L552",
+      "id": "core_engine_savelearned",
+      "community": 4,
+      "norm_label": "savelearned()"
+    },
+    {
+      "label": "AddEntry()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L570",
+      "id": "core_engine_addentry",
+      "community": 7,
+      "norm_label": "addentry()"
+    },
+    {
+      "label": "RebuildFullCandidates()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L584",
+      "id": "core_engine_rebuildfullcandidates",
+      "community": 0,
+      "norm_label": "rebuildfullcandidates()"
+    },
+    {
+      "label": "RebuildSegmentCandidates()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L618",
+      "id": "core_engine_rebuildsegmentcandidates",
+      "community": 0,
+      "norm_label": "rebuildsegmentcandidates()"
+    },
+    {
+      "label": "RebuildNineCandidates()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L696",
+      "id": "core_engine_rebuildninecandidates",
+      "community": 0,
+      "norm_label": "rebuildninecandidates()"
+    },
+    {
+      "label": "RebuildSidebar()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L720",
+      "id": "core_engine_rebuildsidebar",
+      "community": 0,
+      "norm_label": "rebuildsidebar()"
+    },
+    {
+      "label": "LearnedScore()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L746",
+      "id": "core_engine_learnedscore",
+      "community": 0,
+      "norm_label": "learnedscore()"
+    },
+    {
+      "label": "RecencyScore()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L758",
+      "id": "core_engine_recencyscore",
+      "community": 0,
+      "norm_label": "recencyscore()"
+    },
+    {
+      "label": "SortCandidates()",
+      "file_type": "code",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L774",
+      "id": "core_engine_sortcandidates",
+      "community": 0,
+      "norm_label": "sortcandidates()"
+    },
+    {
+      "label": "lwpy_core.h",
+      "file_type": "code",
+      "source_file": "Sources/include/lwpy_core.h",
+      "source_location": "L1",
+      "id": "sources_include_lwpy_core_h",
+      "community": 10,
+      "norm_label": "lwpy_core.h"
+    },
+    {
+      "label": "LWPinyinCoreService.mm",
+      "file_type": "code",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L1",
+      "id": "sources_objc_lwpinyincoreservice_mm",
+      "community": 1,
+      "norm_label": "lwpinyincoreservice.mm"
+    },
+    {
+      "label": "LWPinyinCoreService",
+      "file_type": "code",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L5",
+      "id": "objc_lwpinyincoreservice_lwpinyincoreservice",
+      "community": 1,
+      "norm_label": "lwpinyincoreservice"
+    },
+    {
+      "label": "-initWithResourcePathuserDBPath",
+      "file_type": "code",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L11",
+      "id": "objc_lwpinyincoreservice_lwpinyincoreservice_initwithresourcepathuserdbpath",
+      "community": 1,
+      "norm_label": "-initwithresourcepathuserdbpath"
+    },
+    {
+      "label": "-dealloc",
+      "file_type": "code",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L19",
+      "id": "objc_lwpinyincoreservice_lwpinyincoreservice_dealloc",
+      "community": 1,
+      "norm_label": "-dealloc"
+    },
+    {
+      "label": "-searchFull",
+      "file_type": "code",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L26",
+      "id": "objc_lwpinyincoreservice_lwpinyincoreservice_searchfull",
+      "community": 1,
+      "norm_label": "-searchfull"
+    },
+    {
+      "label": "-searchNine",
+      "file_type": "code",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L30",
+      "id": "objc_lwpinyincoreservice_lwpinyincoreservice_searchnine",
+      "community": 1,
+      "norm_label": "-searchnine"
+    },
+    {
+      "label": "-compositionString",
+      "file_type": "code",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L34",
+      "id": "objc_lwpinyincoreservice_lwpinyincoreservice_compositionstring",
+      "community": 1,
+      "norm_label": "-compositionstring"
+    },
+    {
+      "label": "-candidatesFromcount",
+      "file_type": "code",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L39",
+      "id": "objc_lwpinyincoreservice_lwpinyincoreservice_candidatesfromcount",
+      "community": 1,
+      "norm_label": "-candidatesfromcount"
+    },
+    {
+      "label": "-sidebarCodes",
+      "file_type": "code",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L57",
+      "id": "objc_lwpinyincoreservice_lwpinyincoreservice_sidebarcodes",
+      "community": 1,
+      "norm_label": "-sidebarcodes"
+    },
+    {
+      "label": "-selectSidebarAtIndex",
+      "file_type": "code",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L72",
+      "id": "objc_lwpinyincoreservice_lwpinyincoreservice_selectsidebaratindex",
+      "community": 1,
+      "norm_label": "-selectsidebaratindex"
+    },
+    {
+      "label": "-chooseCandidateAtIndex",
+      "file_type": "code",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L76",
+      "id": "objc_lwpinyincoreservice_lwpinyincoreservice_choosecandidateatindex",
+      "community": 1,
+      "norm_label": "-choosecandidateatindex"
+    },
+    {
+      "label": "-commitText",
+      "file_type": "code",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L80",
+      "id": "objc_lwpinyincoreservice_lwpinyincoreservice_committext",
+      "community": 1,
+      "norm_label": "-committext"
+    },
+    {
+      "label": "-backspace",
+      "file_type": "code",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L85",
+      "id": "objc_lwpinyincoreservice_lwpinyincoreservice_backspace",
+      "community": 1,
+      "norm_label": "-backspace"
+    },
+    {
+      "label": "-reset",
+      "file_type": "code",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L89",
+      "id": "objc_lwpinyincoreservice_lwpinyincoreservice_reset",
+      "community": 1,
+      "norm_label": "-reset"
+    },
+    {
+      "label": "LWPinyinCoreService.h",
+      "file_type": "code",
+      "source_file": "Sources/objc/LWPinyinCoreService.h",
+      "source_location": "L1",
+      "id": "sources_objc_lwpinyincoreservice_h",
+      "community": 11,
+      "norm_label": "lwpinyincoreservice.h"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "tests_test_core_cpp",
+      "target": "tests_test_core_candidates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "tests_test_core_cpp",
+      "target": "tests_test_core_contains",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "tests_test_core_cpp",
+      "target": "tests_test_core_index_of",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "tests_test_core_cpp",
+      "target": "tests_test_core_first_candidate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "tests_test_core_cpp",
+      "target": "tests_test_core_file_has_four_columns",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "tests_test_core_cpp",
+      "target": "tests_test_core_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "tests_test_core_first_candidate",
+      "target": "tests_test_core_candidates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "tests_test_core_main",
+      "target": "tests_test_core_candidates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "tests_test_core_candidates",
+      "target": "core_lwpy_core_lwpy_engine_get_candidates"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "tests_test_core_main",
+      "target": "tests_test_core_contains",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L116",
+      "weight": 1.0,
+      "source": "tests_test_core_main",
+      "target": "tests_test_core_index_of",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "tests_test_core_index_of",
+      "target": "core_lwpy_core_lwpy_engine_get_candidates"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L137",
+      "weight": 1.0,
+      "source": "tests_test_core_main",
+      "target": "tests_test_core_first_candidate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L125",
+      "weight": 1.0,
+      "source": "tests_test_core_main",
+      "target": "tests_test_core_file_has_four_columns",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "tests_test_core_main",
+      "target": "core_lwpy_core_lwpy_engine_create"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L66",
+      "weight": 1.0,
+      "source": "tests_test_core_main",
+      "target": "core_lwpy_core_lwpy_engine_search_full"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L105",
+      "weight": 1.0,
+      "source": "tests_test_core_main",
+      "target": "core_lwpy_core_lwpy_engine_search_nine"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L107",
+      "weight": 1.0,
+      "source": "tests_test_core_main",
+      "target": "core_lwpy_core_lwpy_engine_get_sidebar"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L110",
+      "weight": 1.0,
+      "source": "tests_test_core_main",
+      "target": "core_lwpy_core_lwpy_engine_destroy"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Tests/test_core.cpp",
+      "source_location": "L118",
+      "weight": 1.0,
+      "source": "tests_test_core_main",
+      "target": "core_lwpy_core_lwpy_engine_choose"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Scripts/validate_lexicon.py",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "scripts_validate_lexicon_py",
+      "target": "scripts_validate_lexicon_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.hpp",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "sources_core_engine_hpp",
+      "target": "core_engine_engine",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L338",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_engine",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L340",
+      "weight": 1.0,
+      "source": "core_engine_engine",
+      "target": "core_engine_loadlexicon",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L342",
+      "weight": 1.0,
+      "source": "core_engine_engine",
+      "target": "core_engine_loadbuiltinlexicon",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L344",
+      "weight": 1.0,
+      "source": "core_engine_engine",
+      "target": "core_engine_loadlearned",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L345",
+      "weight": 1.0,
+      "source": "core_engine_engine",
+      "target": "core_engine_reset",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "sources_core_lwpy_core_cpp",
+      "target": "core_lwpy_core_lwpy_engine",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "sources_core_lwpy_core_cpp",
+      "target": "core_lwpy_core_lwpy_engine_create",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "sources_core_lwpy_core_cpp",
+      "target": "core_lwpy_core_lwpy_engine_destroy",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "sources_core_lwpy_core_cpp",
+      "target": "core_lwpy_core_lwpy_engine_reset",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "sources_core_lwpy_core_cpp",
+      "target": "core_lwpy_core_lwpy_engine_set_input",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "sources_core_lwpy_core_cpp",
+      "target": "core_lwpy_core_lwpy_engine_backspace",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "sources_core_lwpy_core_cpp",
+      "target": "core_lwpy_core_lwpy_engine_search_full",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "sources_core_lwpy_core_cpp",
+      "target": "core_lwpy_core_lwpy_engine_search_nine",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "sources_core_lwpy_core_cpp",
+      "target": "core_lwpy_core_lwpy_engine_composition",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "sources_core_lwpy_core_cpp",
+      "target": "core_lwpy_core_lwpy_engine_candidate_count",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "sources_core_lwpy_core_cpp",
+      "target": "core_lwpy_core_lwpy_engine_get_candidates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L70",
+      "weight": 1.0,
+      "source": "sources_core_lwpy_core_cpp",
+      "target": "core_lwpy_core_lwpy_engine_choose",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L74",
+      "weight": 1.0,
+      "source": "sources_core_lwpy_core_cpp",
+      "target": "core_lwpy_core_lwpy_engine_commit_text",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L78",
+      "weight": 1.0,
+      "source": "sources_core_lwpy_core_cpp",
+      "target": "core_lwpy_core_lwpy_engine_get_sidebar",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/lwpy_core.cpp",
+      "source_location": "L89",
+      "weight": 1.0,
+      "source": "sources_core_lwpy_core_cpp",
+      "target": "core_lwpy_core_lwpy_engine_select_sidebar",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_startswith",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_fuzzynormalize",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_fuzzystartswith",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L87",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_isvalidpinyinprefix",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L99",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_splitcompactpinyinsyllables",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L129",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_entrymatchesinputpiece",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L149",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_upsertcandidate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L163",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_splittabs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L173",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_parseint",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L187",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_parseuint64",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L201",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_splitcodesyllables",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L237",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_candidatekey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L241",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_digitforletter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L284",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_normalizeletters",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L294",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_normalizedigits",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L304",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_compactcode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L308",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_initials",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L327",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_digitsforcode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L348",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_reset",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L358",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_setinput",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L364",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_backspace",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L380",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_searchfull",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L389",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_searchnine",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L403",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_candidatecount",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L407",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_candidates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L419",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_choose",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L436",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_sidebar",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L448",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_selectsidebar",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L459",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_loadlexicon",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L487",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_loadbuiltinlexicon",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L515",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_loadlearned",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L552",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_savelearned",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L570",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_addentry",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L584",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_rebuildfullcandidates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L618",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_rebuildsegmentcandidates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L696",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_rebuildninecandidates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L720",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_rebuildsidebar",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L750",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_learnedscore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L762",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_recencyscore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L774",
+      "weight": 1.0,
+      "source": "sources_core_engine_cpp",
+      "target": "core_engine_sortcandidates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "core_engine_fuzzystartswith",
+      "target": "core_engine_startswith",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "core_engine_isvalidpinyinprefix",
+      "target": "core_engine_startswith",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L144",
+      "weight": 1.0,
+      "source": "core_engine_entrymatchesinputpiece",
+      "target": "core_engine_startswith",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L592",
+      "weight": 1.0,
+      "source": "core_engine_rebuildfullcandidates",
+      "target": "core_engine_startswith",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L704",
+      "weight": 1.0,
+      "source": "core_engine_rebuildninecandidates",
+      "target": "core_engine_startswith",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L728",
+      "weight": 1.0,
+      "source": "core_engine_rebuildsidebar",
+      "target": "core_engine_startswith",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "core_engine_fuzzystartswith",
+      "target": "core_engine_fuzzynormalize",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L594",
+      "weight": 1.0,
+      "source": "core_engine_rebuildfullcandidates",
+      "target": "core_engine_fuzzystartswith",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L144",
+      "weight": 1.0,
+      "source": "core_engine_entrymatchesinputpiece",
+      "target": "core_engine_isvalidpinyinprefix",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L218",
+      "weight": 1.0,
+      "source": "core_engine_splitcodesyllables",
+      "target": "core_engine_splitcompactpinyinsyllables",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L643",
+      "weight": 1.0,
+      "source": "core_engine_rebuildsegmentcandidates",
+      "target": "core_engine_entrymatchesinputpiece",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L610",
+      "weight": 1.0,
+      "source": "core_engine_rebuildfullcandidates",
+      "target": "core_engine_upsertcandidate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L682",
+      "weight": 1.0,
+      "source": "core_engine_rebuildsegmentcandidates",
+      "target": "core_engine_upsertcandidate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L714",
+      "weight": 1.0,
+      "source": "core_engine_rebuildninecandidates",
+      "target": "core_engine_upsertcandidate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L479",
+      "weight": 1.0,
+      "source": "core_engine_loadlexicon",
+      "target": "core_engine_splittabs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L525",
+      "weight": 1.0,
+      "source": "core_engine_loadlearned",
+      "target": "core_engine_splittabs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L532",
+      "weight": 1.0,
+      "source": "core_engine_loadlearned",
+      "target": "core_engine_parseint",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L538",
+      "weight": 1.0,
+      "source": "core_engine_loadlearned",
+      "target": "core_engine_parseuint64",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L216",
+      "weight": 1.0,
+      "source": "core_engine_splitcodesyllables",
+      "target": "core_engine_compactcode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L577",
+      "weight": 1.0,
+      "source": "core_engine_addentry",
+      "target": "core_engine_splitcodesyllables",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L238",
+      "weight": 1.0,
+      "source": "core_engine_candidatekey",
+      "target": "core_engine_compactcode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L425",
+      "weight": 1.0,
+      "source": "core_engine_choose",
+      "target": "core_engine_candidatekey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L751",
+      "weight": 1.0,
+      "source": "core_engine_learnedscore",
+      "target": "core_engine_candidatekey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L763",
+      "weight": 1.0,
+      "source": "core_engine_recencyscore",
+      "target": "core_engine_candidatekey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L330",
+      "weight": 1.0,
+      "source": "core_engine_digitsforcode",
+      "target": "core_engine_digitforletter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L305",
+      "weight": 1.0,
+      "source": "core_engine_compactcode",
+      "target": "core_engine_normalizeletters",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L322",
+      "weight": 1.0,
+      "source": "core_engine_initials",
+      "target": "core_engine_normalizeletters",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L359",
+      "weight": 1.0,
+      "source": "core_engine_setinput",
+      "target": "core_engine_normalizeletters",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L382",
+      "weight": 1.0,
+      "source": "core_engine_searchfull",
+      "target": "core_engine_normalizeletters",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L359",
+      "weight": 1.0,
+      "source": "core_engine_setinput",
+      "target": "core_engine_normalizedigits",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L391",
+      "weight": 1.0,
+      "source": "core_engine_searchnine",
+      "target": "core_engine_normalizedigits",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L530",
+      "weight": 1.0,
+      "source": "core_engine_loadlearned",
+      "target": "core_engine_compactcode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L565",
+      "weight": 1.0,
+      "source": "core_engine_savelearned",
+      "target": "core_engine_compactcode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L574",
+      "weight": 1.0,
+      "source": "core_engine_addentry",
+      "target": "core_engine_compactcode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L575",
+      "weight": 1.0,
+      "source": "core_engine_addentry",
+      "target": "core_engine_initials",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L576",
+      "weight": 1.0,
+      "source": "core_engine_addentry",
+      "target": "core_engine_digitsforcode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L372",
+      "weight": 1.0,
+      "source": "core_engine_backspace",
+      "target": "core_engine_rebuildsidebar",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L373",
+      "weight": 1.0,
+      "source": "core_engine_backspace",
+      "target": "core_engine_rebuildninecandidates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L375",
+      "weight": 1.0,
+      "source": "core_engine_backspace",
+      "target": "core_engine_rebuildfullcandidates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L385",
+      "weight": 1.0,
+      "source": "core_engine_searchfull",
+      "target": "core_engine_rebuildfullcandidates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L386",
+      "weight": 1.0,
+      "source": "core_engine_searchfull",
+      "target": "core_engine_candidatecount",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L393",
+      "weight": 1.0,
+      "source": "core_engine_searchnine",
+      "target": "core_engine_rebuildsidebar",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L394",
+      "weight": 1.0,
+      "source": "core_engine_searchnine",
+      "target": "core_engine_rebuildninecandidates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L396",
+      "weight": 1.0,
+      "source": "core_engine_searchnine",
+      "target": "core_engine_candidatecount",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L409",
+      "weight": 1.0,
+      "source": "core_engine_candidates",
+      "target": "core_engine_candidatecount",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L420",
+      "weight": 1.0,
+      "source": "core_engine_choose",
+      "target": "core_engine_candidatecount",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L456",
+      "weight": 1.0,
+      "source": "core_engine_selectsidebar",
+      "target": "core_engine_candidatecount",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L428",
+      "weight": 1.0,
+      "source": "core_engine_choose",
+      "target": "core_engine_savelearned",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L455",
+      "weight": 1.0,
+      "source": "core_engine_selectsidebar",
+      "target": "core_engine_rebuildninecandidates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L483",
+      "weight": 1.0,
+      "source": "core_engine_loadlexicon",
+      "target": "core_engine_addentry",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L511",
+      "weight": 1.0,
+      "source": "core_engine_loadbuiltinlexicon",
+      "target": "core_engine_addentry",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L547",
+      "weight": 1.0,
+      "source": "core_engine_loadlearned",
+      "target": "core_engine_addentry",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L599",
+      "weight": 1.0,
+      "source": "core_engine_rebuildfullcandidates",
+      "target": "core_engine_learnedscore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L599",
+      "weight": 1.0,
+      "source": "core_engine_rebuildfullcandidates",
+      "target": "core_engine_recencyscore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L613",
+      "weight": 1.0,
+      "source": "core_engine_rebuildfullcandidates",
+      "target": "core_engine_sortcandidates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L615",
+      "weight": 1.0,
+      "source": "core_engine_rebuildfullcandidates",
+      "target": "core_engine_rebuildsegmentcandidates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L654",
+      "weight": 1.0,
+      "source": "core_engine_rebuildsegmentcandidates",
+      "target": "core_engine_learnedscore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L654",
+      "weight": 1.0,
+      "source": "core_engine_rebuildsegmentcandidates",
+      "target": "core_engine_recencyscore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L693",
+      "weight": 1.0,
+      "source": "core_engine_rebuildsegmentcandidates",
+      "target": "core_engine_sortcandidates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L710",
+      "weight": 1.0,
+      "source": "core_engine_rebuildninecandidates",
+      "target": "core_engine_learnedscore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L710",
+      "weight": 1.0,
+      "source": "core_engine_rebuildninecandidates",
+      "target": "core_engine_recencyscore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L717",
+      "weight": 1.0,
+      "source": "core_engine_rebuildninecandidates",
+      "target": "core_engine_sortcandidates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L729",
+      "weight": 1.0,
+      "source": "core_engine_rebuildsidebar",
+      "target": "core_engine_learnedscore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/core/Engine.cpp",
+      "source_location": "L729",
+      "weight": 1.0,
+      "source": "core_engine_rebuildsidebar",
+      "target": "core_engine_recencyscore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "sources_objc_lwpinyincoreservice_mm",
+      "target": "objc_lwpinyincoreservice_lwpinyincoreservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "objc_lwpinyincoreservice_lwpinyincoreservice",
+      "target": "objc_lwpinyincoreservice_lwpinyincoreservice_initwithresourcepathuserdbpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "objc_lwpinyincoreservice_lwpinyincoreservice",
+      "target": "objc_lwpinyincoreservice_lwpinyincoreservice_dealloc",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "objc_lwpinyincoreservice_lwpinyincoreservice",
+      "target": "objc_lwpinyincoreservice_lwpinyincoreservice_searchfull",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "objc_lwpinyincoreservice_lwpinyincoreservice",
+      "target": "objc_lwpinyincoreservice_lwpinyincoreservice_searchnine",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "objc_lwpinyincoreservice_lwpinyincoreservice",
+      "target": "objc_lwpinyincoreservice_lwpinyincoreservice_compositionstring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "objc_lwpinyincoreservice_lwpinyincoreservice",
+      "target": "objc_lwpinyincoreservice_lwpinyincoreservice_candidatesfromcount",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L57",
+      "weight": 1.0,
+      "source": "objc_lwpinyincoreservice_lwpinyincoreservice",
+      "target": "objc_lwpinyincoreservice_lwpinyincoreservice_sidebarcodes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L72",
+      "weight": 1.0,
+      "source": "objc_lwpinyincoreservice_lwpinyincoreservice",
+      "target": "objc_lwpinyincoreservice_lwpinyincoreservice_selectsidebaratindex",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L76",
+      "weight": 1.0,
+      "source": "objc_lwpinyincoreservice_lwpinyincoreservice",
+      "target": "objc_lwpinyincoreservice_lwpinyincoreservice_choosecandidateatindex",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L80",
+      "weight": 1.0,
+      "source": "objc_lwpinyincoreservice_lwpinyincoreservice",
+      "target": "objc_lwpinyincoreservice_lwpinyincoreservice_committext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L85",
+      "weight": 1.0,
+      "source": "objc_lwpinyincoreservice_lwpinyincoreservice",
+      "target": "objc_lwpinyincoreservice_lwpinyincoreservice_backspace",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/objc/LWPinyinCoreService.mm",
+      "source_location": "L89",
+      "weight": 1.0,
+      "source": "objc_lwpinyincoreservice_lwpinyincoreservice",
+      "target": "objc_lwpinyincoreservice_lwpinyincoreservice_reset",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}
