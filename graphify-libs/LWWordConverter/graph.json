@@ -1,0 +1,1640 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "LWConverterService.m",
+      "file_type": "code",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L1",
+      "id": "lwwordconverter_classes_lwconverterservice_m",
+      "community": 0,
+      "norm_label": "lwconverterservice.m"
+    },
+    {
+      "label": "LWConverterService",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L11",
+      "id": "classes_lwconverterservice_lwconverterservice",
+      "community": 0,
+      "norm_label": "lwconverterservice"
+    },
+    {
+      "label": "-serviceWithDBPathbihuaDBPath",
+      "file_type": "code",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L21",
+      "id": "classes_lwconverterservice_lwconverterservice_servicewithdbpathbihuadbpath",
+      "community": 0,
+      "norm_label": "-servicewithdbpathbihuadbpath"
+    },
+    {
+      "label": "-initWithDBPathbihuaDBPath",
+      "file_type": "code",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L31",
+      "id": "classes_lwconverterservice_lwconverterservice_initwithdbpathbihuadbpath",
+      "community": 0,
+      "norm_label": "-initwithdbpathbihuadbpath"
+    },
+    {
+      "label": ".openDatabase()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L67",
+      "id": "classes_lwconverterservice_lwconverterservice_opendatabase",
+      "community": 8,
+      "norm_label": ".opendatabase()"
+    },
+    {
+      "label": ".openBihuaDatabase()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L92",
+      "id": "classes_lwconverterservice_lwconverterservice_openbihuadatabase",
+      "community": 8,
+      "norm_label": ".openbihuadatabase()"
+    },
+    {
+      "label": "-dealloc",
+      "file_type": "code",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L100",
+      "id": "classes_lwconverterservice_lwconverterservice_dealloc",
+      "community": 0,
+      "norm_label": "-dealloc"
+    },
+    {
+      "label": "-queryWithZiupdateUIBlock",
+      "file_type": "code",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L110",
+      "id": "classes_lwconverterservice_lwconverterservice_querywithziupdateuiblock",
+      "community": 0,
+      "norm_label": "-querywithziupdateuiblock"
+    },
+    {
+      "label": "-queryWithZi",
+      "file_type": "code",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L126",
+      "id": "classes_lwconverterservice_lwconverterservice_querywithzi",
+      "community": 0,
+      "norm_label": "-querywithzi"
+    },
+    {
+      "label": "-queryBiShunWithZiupdateUIBlock",
+      "file_type": "code",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L151",
+      "id": "classes_lwconverterservice_lwconverterservice_querybishunwithziupdateuiblock",
+      "community": 0,
+      "norm_label": "-querybishunwithziupdateuiblock"
+    },
+    {
+      "label": "-queryBiShunWithZi",
+      "file_type": "code",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L163",
+      "id": "classes_lwconverterservice_lwconverterservice_querybishunwithzi",
+      "community": 0,
+      "norm_label": "-querybishunwithzi"
+    },
+    {
+      "label": "-fanyiZitoupdateUIBlock",
+      "file_type": "code",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L200",
+      "id": "classes_lwconverterservice_lwconverterservice_fanyizitoupdateuiblock",
+      "community": 0,
+      "norm_label": "-fanyizitoupdateuiblock"
+    },
+    {
+      "label": "-md5HexDigest",
+      "file_type": "code",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L333",
+      "id": "classes_lwconverterservice_lwconverterservice_md5hexdigest",
+      "community": 0,
+      "norm_label": "-md5hexdigest"
+    },
+    {
+      "label": "-enumerateCharactersusingBlock",
+      "file_type": "code",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L346",
+      "id": "classes_lwconverterservice_lwconverterservice_enumeratecharactersusingblock",
+      "community": 0,
+      "norm_label": "-enumeratecharactersusingblock"
+    },
+    {
+      "label": "-isBlankString",
+      "file_type": "code",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L354",
+      "id": "classes_lwconverterservice_lwconverterservice_isblankstring",
+      "community": 0,
+      "norm_label": "-isblankstring"
+    },
+    {
+      "label": ".userAgent()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L272",
+      "id": "classes_lwconverterservice_lwconverterservice_useragent",
+      "community": 10,
+      "norm_label": ".useragent()"
+    },
+    {
+      "label": "LWEncryptService.h",
+      "file_type": "code",
+      "source_file": "LWWordConverter/Classes/LWEncryptService.h",
+      "source_location": "L1",
+      "id": "lwwordconverter_classes_lwencryptservice_h",
+      "community": 13,
+      "norm_label": "lwencryptservice.h"
+    },
+    {
+      "label": "LWConverterService.h",
+      "file_type": "code",
+      "source_file": "LWWordConverter/Classes/LWConverterService.h",
+      "source_location": "L1",
+      "id": "lwwordconverter_classes_lwconverterservice_h",
+      "community": 14,
+      "norm_label": "lwconverterservice.h"
+    },
+    {
+      "label": "LWEncryptService.m",
+      "file_type": "code",
+      "source_file": "LWWordConverter/Classes/LWEncryptService.m",
+      "source_location": "L1",
+      "id": "lwwordconverter_classes_lwencryptservice_m",
+      "community": 1,
+      "norm_label": "lwencryptservice.m"
+    },
+    {
+      "label": "LWEncryptService",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L18",
+      "id": "classes_lwencryptservice_lwencryptservice",
+      "community": 1,
+      "norm_label": "lwencryptservice"
+    },
+    {
+      "label": "-load",
+      "file_type": "code",
+      "source_file": "LWWordConverter/Classes/LWEncryptService.m",
+      "source_location": "L16",
+      "id": "classes_lwencryptservice_lwencryptservice_load",
+      "community": 1,
+      "norm_label": "-load"
+    },
+    {
+      "label": ".isEncryptString()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L136",
+      "id": "classes_lwencryptservice_lwencryptservice_isencryptstring",
+      "community": 1,
+      "norm_label": ".isencryptstring()"
+    },
+    {
+      "label": "-encryptTextdisplayText",
+      "file_type": "code",
+      "source_file": "LWWordConverter/Classes/LWEncryptService.m",
+      "source_location": "L134",
+      "id": "classes_lwencryptservice_lwencryptservice_encrypttextdisplaytext",
+      "community": 1,
+      "norm_label": "-encrypttextdisplaytext"
+    },
+    {
+      "label": ".decryptText()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L176",
+      "id": "classes_lwencryptservice_lwencryptservice_decrypttext",
+      "community": 1,
+      "norm_label": ".decrypttext()"
+    },
+    {
+      "label": ".saveEncryptMode()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L221",
+      "id": "classes_lwencryptservice_lwencryptservice_saveencryptmode",
+      "community": 1,
+      "norm_label": ".saveencryptmode()"
+    },
+    {
+      "label": ".getEncryptMode()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L227",
+      "id": "classes_lwencryptservice_lwencryptservice_getencryptmode",
+      "community": 1,
+      "norm_label": ".getencryptmode()"
+    },
+    {
+      "label": ".getShortcut()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L233",
+      "id": "classes_lwencryptservice_lwencryptservice_getshortcut",
+      "community": 1,
+      "norm_label": ".getshortcut()"
+    },
+    {
+      "label": "LWViewController.h",
+      "file_type": "code",
+      "source_file": "Example/LWWordConverter/LWViewController.h",
+      "source_location": "L1",
+      "id": "example_lwwordconverter_lwviewcontroller_h",
+      "community": 15,
+      "norm_label": "lwviewcontroller.h"
+    },
+    {
+      "label": "LWAppDelegate.h",
+      "file_type": "code",
+      "source_file": "Example/LWWordConverter/LWAppDelegate.h",
+      "source_location": "L1",
+      "id": "example_lwwordconverter_lwappdelegate_h",
+      "community": 16,
+      "norm_label": "lwappdelegate.h"
+    },
+    {
+      "label": "main.m",
+      "file_type": "code",
+      "source_file": "Example/LWWordConverter/main.m",
+      "source_location": "L1",
+      "id": "example_lwwordconverter_main_m",
+      "community": 17,
+      "norm_label": "main.m"
+    },
+    {
+      "label": "LWAppDelegate.m",
+      "file_type": "code",
+      "source_file": "Example/LWWordConverter/LWAppDelegate.m",
+      "source_location": "L1",
+      "id": "example_lwwordconverter_lwappdelegate_m",
+      "community": 3,
+      "norm_label": "lwappdelegate.m"
+    },
+    {
+      "label": "LWAppDelegate",
+      "file_type": "code",
+      "source_file": "Example/LWWordConverter/LWAppDelegate.m",
+      "source_location": "L11",
+      "id": "lwwordconverter_lwappdelegate_lwappdelegate",
+      "community": 3,
+      "norm_label": "lwappdelegate"
+    },
+    {
+      "label": "-applicationdidFinishLaunchingWithOptions",
+      "file_type": "code",
+      "source_file": "Example/LWWordConverter/LWAppDelegate.m",
+      "source_location": "L13",
+      "id": "lwwordconverter_lwappdelegate_lwappdelegate_applicationdidfinishlaunchingwithoptions",
+      "community": 3,
+      "norm_label": "-applicationdidfinishlaunchingwithoptions"
+    },
+    {
+      "label": "-applicationWillResignActive",
+      "file_type": "code",
+      "source_file": "Example/LWWordConverter/LWAppDelegate.m",
+      "source_location": "L19",
+      "id": "lwwordconverter_lwappdelegate_lwappdelegate_applicationwillresignactive",
+      "community": 3,
+      "norm_label": "-applicationwillresignactive"
+    },
+    {
+      "label": "-applicationDidEnterBackground",
+      "file_type": "code",
+      "source_file": "Example/LWWordConverter/LWAppDelegate.m",
+      "source_location": "L25",
+      "id": "lwwordconverter_lwappdelegate_lwappdelegate_applicationdidenterbackground",
+      "community": 3,
+      "norm_label": "-applicationdidenterbackground"
+    },
+    {
+      "label": "-applicationWillEnterForeground",
+      "file_type": "code",
+      "source_file": "Example/LWWordConverter/LWAppDelegate.m",
+      "source_location": "L31",
+      "id": "lwwordconverter_lwappdelegate_lwappdelegate_applicationwillenterforeground",
+      "community": 3,
+      "norm_label": "-applicationwillenterforeground"
+    },
+    {
+      "label": "-applicationDidBecomeActive",
+      "file_type": "code",
+      "source_file": "Example/LWWordConverter/LWAppDelegate.m",
+      "source_location": "L36",
+      "id": "lwwordconverter_lwappdelegate_lwappdelegate_applicationdidbecomeactive",
+      "community": 3,
+      "norm_label": "-applicationdidbecomeactive"
+    },
+    {
+      "label": "-applicationWillTerminate",
+      "file_type": "code",
+      "source_file": "Example/LWWordConverter/LWAppDelegate.m",
+      "source_location": "L41",
+      "id": "lwwordconverter_lwappdelegate_lwappdelegate_applicationwillterminate",
+      "community": 3,
+      "norm_label": "-applicationwillterminate"
+    },
+    {
+      "label": "LWViewController.m",
+      "file_type": "code",
+      "source_file": "Example/LWWordConverter/LWViewController.m",
+      "source_location": "L1",
+      "id": "example_lwwordconverter_lwviewcontroller_m",
+      "community": 7,
+      "norm_label": "lwviewcontroller.m"
+    },
+    {
+      "label": "LWViewController",
+      "file_type": "code",
+      "source_file": "Example/LWWordConverter/LWViewController.m",
+      "source_location": "L11",
+      "id": "lwwordconverter_lwviewcontroller_lwviewcontroller",
+      "community": 7,
+      "norm_label": "lwviewcontroller"
+    },
+    {
+      "label": "-viewDidLoad",
+      "file_type": "code",
+      "source_file": "Example/LWWordConverter/LWViewController.m",
+      "source_location": "L17",
+      "id": "lwwordconverter_lwviewcontroller_lwviewcontroller_viewdidload",
+      "community": 7,
+      "norm_label": "-viewdidload"
+    },
+    {
+      "label": "-didReceiveMemoryWarning",
+      "file_type": "code",
+      "source_file": "Example/LWWordConverter/LWViewController.m",
+      "source_location": "L23",
+      "id": "lwwordconverter_lwviewcontroller_lwviewcontroller_didreceivememorywarning",
+      "community": 7,
+      "norm_label": "-didreceivememorywarning"
+    },
+    {
+      "label": "Tests.m",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L1",
+      "id": "example_tests_tests_m",
+      "community": 6,
+      "norm_label": "tests.m"
+    },
+    {
+      "label": "Tests",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L11",
+      "id": "tests_tests_tests",
+      "community": 6,
+      "norm_label": "tests"
+    },
+    {
+      "label": "-setUp",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L17",
+      "id": "tests_tests_tests_setup",
+      "community": 6,
+      "norm_label": "-setup"
+    },
+    {
+      "label": "-tearDown",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L23",
+      "id": "tests_tests_tests_teardown",
+      "community": 6,
+      "norm_label": "-teardown"
+    },
+    {
+      "label": "-testExample",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L29",
+      "id": "tests_tests_tests_testexample",
+      "community": 6,
+      "norm_label": "-testexample"
+    },
+    {
+      "label": "LWWordConverterView.swift",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterView.swift",
+      "source_location": "L1",
+      "id": "lwwordconverter_swift_classes_lwwordconverterview_swift",
+      "community": 2,
+      "norm_label": "lwwordconverterview.swift"
+    },
+    {
+      "label": "LWWordConverterView",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterView.swift",
+      "source_location": "L11",
+      "id": "classes_lwwordconverterview_lwwordconverterview",
+      "community": 2,
+      "norm_label": "lwwordconverterview"
+    },
+    {
+      "label": "View",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "view",
+      "community": 2,
+      "norm_label": "view"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterView.swift",
+      "source_location": "L29",
+      "id": "classes_lwwordconverterview_lwwordconverterview_init",
+      "community": 2,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".queryPinyinAndWubi()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterView.swift",
+      "source_location": "L201",
+      "id": "classes_lwwordconverterview_lwwordconverterview_querypinyinandwubi",
+      "community": 2,
+      "norm_label": ".querypinyinandwubi()"
+    },
+    {
+      "label": ".queryBishun()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterView.swift",
+      "source_location": "L210",
+      "id": "classes_lwwordconverterview_lwwordconverterview_querybishun",
+      "community": 2,
+      "norm_label": ".querybishun()"
+    },
+    {
+      "label": ".translateToEnglish()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterView.swift",
+      "source_location": "L218",
+      "id": "classes_lwwordconverterview_lwwordconverterview_translatetoenglish",
+      "community": 2,
+      "norm_label": ".translatetoenglish()"
+    },
+    {
+      "label": ".encryptText()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterView.swift",
+      "source_location": "L226",
+      "id": "classes_lwwordconverterview_lwwordconverterview_encrypttext",
+      "community": 2,
+      "norm_label": ".encrypttext()"
+    },
+    {
+      "label": ".decryptText()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterView.swift",
+      "source_location": "L234",
+      "id": "classes_lwwordconverterview_lwwordconverterview_decrypttext",
+      "community": 2,
+      "norm_label": ".decrypttext()"
+    },
+    {
+      "label": "LWWordConverterView_Previews",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterView.swift",
+      "source_location": "L245",
+      "id": "classes_lwwordconverterview_lwwordconverterview_previews",
+      "community": 2,
+      "norm_label": "lwwordconverterview_previews"
+    },
+    {
+      "label": "PreviewProvider",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "previewprovider",
+      "community": 2,
+      "norm_label": "previewprovider"
+    },
+    {
+      "label": "LWWordConverterSwift.swift",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterSwift.swift",
+      "source_location": "L1",
+      "id": "lwwordconverter_swift_classes_lwwordconverterswift_swift",
+      "community": 9,
+      "norm_label": "lwwordconverterswift.swift"
+    },
+    {
+      "label": "LWWordConverterSwift",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterSwift.swift",
+      "source_location": "L14",
+      "id": "classes_lwwordconverterswift_lwwordconverterswift",
+      "community": 9,
+      "norm_label": "lwwordconverterswift"
+    },
+    {
+      "label": ".info()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterSwift.swift",
+      "source_location": "L23",
+      "id": "classes_lwwordconverterswift_lwwordconverterswift_info",
+      "community": 9,
+      "norm_label": ".info()"
+    },
+    {
+      "label": "LWNetworkReachabilityManager.swift",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L1",
+      "id": "lwwordconverter_swift_classes_lwnetworkreachabilitymanager_swift",
+      "community": 4,
+      "norm_label": "lwnetworkreachabilitymanager.swift"
+    },
+    {
+      "label": "LWNetworkReachabilityStatus",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L12",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitystatus",
+      "community": 5,
+      "norm_label": "lwnetworkreachabilitystatus"
+    },
+    {
+      "label": "Int",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "int",
+      "community": 5,
+      "norm_label": "int"
+    },
+    {
+      "label": "unknown",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L13",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitystatus_unknown",
+      "community": 5,
+      "norm_label": "unknown"
+    },
+    {
+      "label": "notReachable",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L14",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitystatus_notreachable",
+      "community": 5,
+      "norm_label": "notreachable"
+    },
+    {
+      "label": "reachableViaWiFi",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L15",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitystatus_reachableviawifi",
+      "community": 5,
+      "norm_label": "reachableviawifi"
+    },
+    {
+      "label": "reachableViaWWAN",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L16",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitystatus_reachableviawwan",
+      "community": 5,
+      "norm_label": "reachableviawwan"
+    },
+    {
+      "label": "LWNetworkReachabilityManager",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L21",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "community": 4,
+      "norm_label": "lwnetworkreachabilitymanager"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L37",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_init",
+      "community": 4,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".setReachabilityStatusChangeBlock()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L43",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_setreachabilitystatuschangeblock",
+      "community": 4,
+      "norm_label": ".setreachabilitystatuschangeblock()"
+    },
+    {
+      "label": ".startMonitoring()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L47",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_startmonitoring",
+      "community": 4,
+      "norm_label": ".startmonitoring()"
+    },
+    {
+      "label": ".stopMonitoring()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L82",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_stopmonitoring",
+      "community": 4,
+      "norm_label": ".stopmonitoring()"
+    },
+    {
+      "label": ".deinit()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L87",
+      "id": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_deinit",
+      "community": 4,
+      "norm_label": ".deinit()"
+    },
+    {
+      "label": "LWEncryptService.swift",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L1",
+      "id": "lwwordconverter_swift_classes_lwencryptservice_swift",
+      "community": 1,
+      "norm_label": "lwencryptservice.swift"
+    },
+    {
+      "label": "EncryptMode",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L11",
+      "id": "classes_lwencryptservice_encryptmode",
+      "community": 1,
+      "norm_label": "encryptmode"
+    },
+    {
+      "label": "emoji",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L12",
+      "id": "classes_lwencryptservice_encryptmode_emoji",
+      "community": 1,
+      "norm_label": "emoji"
+    },
+    {
+      "label": "sanGuoSha",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L13",
+      "id": "classes_lwencryptservice_encryptmode_sanguosha",
+      "community": 1,
+      "norm_label": "sanguosha"
+    },
+    {
+      "label": ".encryptText()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L144",
+      "id": "classes_lwencryptservice_lwencryptservice_encrypttext",
+      "community": 1,
+      "norm_label": ".encrypttext()"
+    },
+    {
+      "label": "LWConverterService.swift",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L1",
+      "id": "lwwordconverter_swift_classes_lwconverterservice_swift",
+      "community": 0,
+      "norm_label": "lwconverterservice.swift"
+    },
+    {
+      "label": ".service()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L30",
+      "id": "classes_lwconverterservice_lwconverterservice_service",
+      "community": 0,
+      "norm_label": ".service()"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L41",
+      "id": "classes_lwconverterservice_lwconverterservice_init",
+      "community": 8,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".deinit()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L56",
+      "id": "classes_lwconverterservice_lwconverterservice_deinit",
+      "community": 0,
+      "norm_label": ".deinit()"
+    },
+    {
+      "label": ".query()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L119",
+      "id": "classes_lwconverterservice_lwconverterservice_query",
+      "community": 12,
+      "norm_label": ".query()"
+    },
+    {
+      "label": ".queryInternal()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L126",
+      "id": "classes_lwconverterservice_lwconverterservice_queryinternal",
+      "community": 12,
+      "norm_label": ".queryinternal()"
+    },
+    {
+      "label": ".queryBiShun()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L165",
+      "id": "classes_lwconverterservice_lwconverterservice_querybishun",
+      "community": 11,
+      "norm_label": ".querybishun()"
+    },
+    {
+      "label": ".queryBiShunInternal()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L170",
+      "id": "classes_lwconverterservice_lwconverterservice_querybishuninternal",
+      "community": 11,
+      "norm_label": ".querybishuninternal()"
+    },
+    {
+      "label": ".fanyiZi()",
+      "file_type": "code",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L211",
+      "id": "classes_lwconverterservice_lwconverterservice_fanyizi",
+      "community": 10,
+      "norm_label": ".fanyizi()"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "lwwordconverter_classes_lwconverterservice_m",
+      "target": "classes_lwconverterservice_lwconverterservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice",
+      "target": "classes_lwconverterservice_lwconverterservice_servicewithdbpathbihuadbpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice",
+      "target": "classes_lwconverterservice_lwconverterservice_initwithdbpathbihuadbpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice",
+      "target": "classes_lwconverterservice_lwconverterservice_opendatabase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice",
+      "target": "classes_lwconverterservice_lwconverterservice_openbihuadatabase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L100",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice",
+      "target": "classes_lwconverterservice_lwconverterservice_dealloc",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L110",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice",
+      "target": "classes_lwconverterservice_lwconverterservice_querywithziupdateuiblock",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L126",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice",
+      "target": "classes_lwconverterservice_lwconverterservice_querywithzi",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L151",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice",
+      "target": "classes_lwconverterservice_lwconverterservice_querybishunwithziupdateuiblock",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L163",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice",
+      "target": "classes_lwconverterservice_lwconverterservice_querybishunwithzi",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L200",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice",
+      "target": "classes_lwconverterservice_lwconverterservice_fanyizitoupdateuiblock",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L333",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice",
+      "target": "classes_lwconverterservice_lwconverterservice_md5hexdigest",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L346",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice",
+      "target": "classes_lwconverterservice_lwconverterservice_enumeratecharactersusingblock",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter/Classes/LWConverterService.m",
+      "source_location": "L354",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice",
+      "target": "classes_lwconverterservice_lwconverterservice_isblankstring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L272",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice",
+      "target": "classes_lwconverterservice_lwconverterservice_useragent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "lwwordconverter_swift_classes_lwconverterservice_swift",
+      "target": "classes_lwconverterservice_lwconverterservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L38",
+      "weight": 1.0,
+      "context": "call",
+      "source": "classes_lwconverterservice_lwconverterservice_service",
+      "target": "classes_lwconverterservice_lwconverterservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice",
+      "target": "classes_lwconverterservice_lwconverterservice_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice",
+      "target": "classes_lwconverterservice_lwconverterservice_deinit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L119",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice",
+      "target": "classes_lwconverterservice_lwconverterservice_query",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L126",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice",
+      "target": "classes_lwconverterservice_lwconverterservice_queryinternal",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L165",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice",
+      "target": "classes_lwconverterservice_lwconverterservice_querybishun",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L170",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice",
+      "target": "classes_lwconverterservice_lwconverterservice_querybishuninternal",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L211",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice",
+      "target": "classes_lwconverterservice_lwconverterservice_fanyizi",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice_init",
+      "target": "classes_lwconverterservice_lwconverterservice_opendatabase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice_init",
+      "target": "classes_lwconverterservice_lwconverterservice_openbihuadatabase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L225",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice_fanyizi",
+      "target": "classes_lwconverterservice_lwconverterservice_useragent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter/Classes/LWEncryptService.m",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "lwwordconverter_classes_lwencryptservice_m",
+      "target": "classes_lwencryptservice_lwencryptservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter/Classes/LWEncryptService.m",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "classes_lwencryptservice_lwencryptservice",
+      "target": "classes_lwencryptservice_lwencryptservice_load",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L136",
+      "weight": 1.0,
+      "source": "classes_lwencryptservice_lwencryptservice",
+      "target": "classes_lwencryptservice_lwencryptservice_isencryptstring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter/Classes/LWEncryptService.m",
+      "source_location": "L134",
+      "weight": 1.0,
+      "source": "classes_lwencryptservice_lwencryptservice",
+      "target": "classes_lwencryptservice_lwencryptservice_encrypttextdisplaytext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L176",
+      "weight": 1.0,
+      "source": "classes_lwencryptservice_lwencryptservice",
+      "target": "classes_lwencryptservice_lwencryptservice_decrypttext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L221",
+      "weight": 1.0,
+      "source": "classes_lwencryptservice_lwencryptservice",
+      "target": "classes_lwencryptservice_lwencryptservice_saveencryptmode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L227",
+      "weight": 1.0,
+      "source": "classes_lwencryptservice_lwencryptservice",
+      "target": "classes_lwencryptservice_lwencryptservice_getencryptmode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L233",
+      "weight": 1.0,
+      "source": "classes_lwencryptservice_lwencryptservice",
+      "target": "classes_lwencryptservice_lwencryptservice_getshortcut",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "lwwordconverter_swift_classes_lwencryptservice_swift",
+      "target": "classes_lwencryptservice_lwencryptservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L144",
+      "weight": 1.0,
+      "source": "classes_lwencryptservice_lwencryptservice",
+      "target": "classes_lwencryptservice_lwencryptservice_encrypttext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L229",
+      "weight": 1.0,
+      "source": "classes_lwencryptservice_lwencryptservice_getencryptmode",
+      "target": "classes_lwencryptservice_encryptmode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWWordConverter/LWAppDelegate.m",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "example_lwwordconverter_lwappdelegate_m",
+      "target": "lwwordconverter_lwappdelegate_lwappdelegate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWWordConverter/LWAppDelegate.m",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "lwwordconverter_lwappdelegate_lwappdelegate",
+      "target": "lwwordconverter_lwappdelegate_lwappdelegate_applicationdidfinishlaunchingwithoptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWWordConverter/LWAppDelegate.m",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "lwwordconverter_lwappdelegate_lwappdelegate",
+      "target": "lwwordconverter_lwappdelegate_lwappdelegate_applicationwillresignactive",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWWordConverter/LWAppDelegate.m",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "lwwordconverter_lwappdelegate_lwappdelegate",
+      "target": "lwwordconverter_lwappdelegate_lwappdelegate_applicationdidenterbackground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWWordConverter/LWAppDelegate.m",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "lwwordconverter_lwappdelegate_lwappdelegate",
+      "target": "lwwordconverter_lwappdelegate_lwappdelegate_applicationwillenterforeground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWWordConverter/LWAppDelegate.m",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "lwwordconverter_lwappdelegate_lwappdelegate",
+      "target": "lwwordconverter_lwappdelegate_lwappdelegate_applicationdidbecomeactive",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWWordConverter/LWAppDelegate.m",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "lwwordconverter_lwappdelegate_lwappdelegate",
+      "target": "lwwordconverter_lwappdelegate_lwappdelegate_applicationwillterminate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWWordConverter/LWViewController.m",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "example_lwwordconverter_lwviewcontroller_m",
+      "target": "lwwordconverter_lwviewcontroller_lwviewcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWWordConverter/LWViewController.m",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "lwwordconverter_lwviewcontroller_lwviewcontroller",
+      "target": "lwwordconverter_lwviewcontroller_lwviewcontroller_viewdidload",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWWordConverter/LWViewController.m",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "lwwordconverter_lwviewcontroller_lwviewcontroller",
+      "target": "lwwordconverter_lwviewcontroller_lwviewcontroller_didreceivememorywarning",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "example_tests_tests_m",
+      "target": "tests_tests_tests",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "tests_tests_tests",
+      "target": "tests_tests_tests_setup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "tests_tests_tests",
+      "target": "tests_tests_tests_teardown",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "tests_tests_tests",
+      "target": "tests_tests_tests_testexample",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterView.swift",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "lwwordconverter_swift_classes_lwwordconverterview_swift",
+      "target": "classes_lwwordconverterview_lwwordconverterview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterView.swift",
+      "source_location": "L245",
+      "weight": 1.0,
+      "source": "lwwordconverter_swift_classes_lwwordconverterview_swift",
+      "target": "classes_lwwordconverterview_lwwordconverterview_previews",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterView.swift",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "classes_lwwordconverterview_lwwordconverterview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterView.swift",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "classes_lwwordconverterview_lwwordconverterview",
+      "target": "classes_lwwordconverterview_lwwordconverterview_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterView.swift",
+      "source_location": "L201",
+      "weight": 1.0,
+      "source": "classes_lwwordconverterview_lwwordconverterview",
+      "target": "classes_lwwordconverterview_lwwordconverterview_querypinyinandwubi",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterView.swift",
+      "source_location": "L210",
+      "weight": 1.0,
+      "source": "classes_lwwordconverterview_lwwordconverterview",
+      "target": "classes_lwwordconverterview_lwwordconverterview_querybishun",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterView.swift",
+      "source_location": "L218",
+      "weight": 1.0,
+      "source": "classes_lwwordconverterview_lwwordconverterview",
+      "target": "classes_lwwordconverterview_lwwordconverterview_translatetoenglish",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterView.swift",
+      "source_location": "L226",
+      "weight": 1.0,
+      "source": "classes_lwwordconverterview_lwwordconverterview",
+      "target": "classes_lwwordconverterview_lwwordconverterview_encrypttext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterView.swift",
+      "source_location": "L234",
+      "weight": 1.0,
+      "source": "classes_lwwordconverterview_lwwordconverterview",
+      "target": "classes_lwwordconverterview_lwwordconverterview_decrypttext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterView.swift",
+      "source_location": "L245",
+      "weight": 1.0,
+      "source": "classes_lwwordconverterview_lwwordconverterview_previews",
+      "target": "previewprovider",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterSwift.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "lwwordconverter_swift_classes_lwwordconverterswift_swift",
+      "target": "classes_lwwordconverterswift_lwwordconverterswift",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWWordConverterSwift.swift",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "classes_lwwordconverterswift_lwwordconverterswift",
+      "target": "classes_lwwordconverterswift_lwwordconverterswift_info",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "lwwordconverter_swift_classes_lwnetworkreachabilitymanager_swift",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitystatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "lwwordconverter_swift_classes_lwnetworkreachabilitymanager_swift",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitystatus",
+      "target": "int",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitystatus",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitystatus_unknown",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitystatus",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitystatus_notreachable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitystatus",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitystatus_reachableviawifi",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitystatus",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitystatus_reachableviawwan",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "classes_lwencryptservice_encryptmode",
+      "target": "int",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_setreachabilitystatuschangeblock",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_startmonitoring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_stopmonitoring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L87",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_deinit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWNetworkReachabilityManager.swift",
+      "source_location": "L88",
+      "weight": 1.0,
+      "source": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_deinit",
+      "target": "classes_lwnetworkreachabilitymanager_lwnetworkreachabilitymanager_stopmonitoring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "lwwordconverter_swift_classes_lwencryptservice_swift",
+      "target": "classes_lwencryptservice_encryptmode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "classes_lwencryptservice_encryptmode",
+      "target": "classes_lwencryptservice_encryptmode_emoji",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWEncryptService.swift",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "classes_lwencryptservice_encryptmode",
+      "target": "classes_lwencryptservice_encryptmode_sanguosha",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L120",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice_query",
+      "target": "classes_lwconverterservice_lwconverterservice_queryinternal",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWWordConverter_swift/Classes/LWConverterService.swift",
+      "source_location": "L166",
+      "weight": 1.0,
+      "source": "classes_lwconverterservice_lwconverterservice_querybishun",
+      "target": "classes_lwconverterservice_lwconverterservice_querybishuninternal",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}

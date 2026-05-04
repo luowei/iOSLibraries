@@ -8,6 +8,12 @@
 
 A comprehensive collection of 34 high-quality iOS libraries built with Objective-C, covering UI components, networking, data management, security, input methods, and more.
 
+## graphify Knowledge Graph
+
+- iOSLibraries graph index: https://luowei.github.io/iOSLibraries/
+- Published artifacts live under `graphify-libs/` and are deployed by `.github/workflows/graphify-libs-pages.yml`.
+- Private library repositories that cannot create their own GitHub Pages are surfaced through this public parent Pages site. `mybinlibs`, `mygiteerepo`, and `mygitlabrepo` are skipped.
+
 ---
 
 ## 📋 Table of Contents
