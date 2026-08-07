@@ -1,3 +1,4 @@
+> ⚠️ **ARCHIVED** — Libraries migrated to mobile-workspace private monorepo (2026-08-07).
 # iOS CocoaPods Libraries Collection
 
 [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)](https://developer.apple.com/ios/)
